@@ -1,4 +1,4 @@
-# 📊 Google Play Store Data Analysis (EDA Project)
+# 📱 Google Play Store Data Analysis (EDA Project)
 
 ## 📌 Project Overview
 
