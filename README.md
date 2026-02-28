@@ -107,7 +107,7 @@ The analysis reveals that the Google Play Store ecosystem is highly competitive,
 **Mayank Kumar**  
 Data Analyst  
 Skilled in Python, SQL, Power BI & Data Visualization  
-🔗 [LinkedIn](https://www.linkedin.com/in/mayank-kumar-2003y/)  
+🔗 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)][LinkedIn](https://www.linkedin.com/in/mayank-kumar-2003y/)  
 💻 [GitHub](https://github.com/mayankkumar790)  
 📧 [Mail](mailto:mayankkumar21july@gmail.com)
 
