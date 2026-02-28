@@ -1,2 +1,7 @@
-# EDA-Of-Google-PlayStore-Dataset
-A complete data analysis project on the Google Play Store dataset involving data cleaning, exploratory data analysis (EDA), and feature engineering to extract meaningful insights about app ratings, installs, pricing strategies, and category performance.
+# EDA And Feature Engineering Of Google Play Store Dataset
+
+📌 Project Overview
+
+This project performs Exploratory Data Analysis (EDA) and Feature Engineering on the Google Play Store dataset to extract meaningful business insights. The objective is to understand app distribution, user engagement, installation trends, and rating patterns across different categories.
+
+The analysis focuses on identifying dominant categories, top-performing applications, rating distributions, and overall market behavior within the Google Play ecosystem.
